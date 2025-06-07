@@ -26,7 +26,7 @@ Este é um sistema de controle clínico desenvolvido em PHP, com funcionalidades
 
 2. **Clone ou copie o projeto para a pasta `htdocs` do XAMPP**  
    ```bash
-   git clone https://github.com/seu-usuario/controle-clinico.git
+   git clone https://https://github.com/davimj99/CrudSCC.php/
 
 
 
